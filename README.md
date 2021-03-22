@@ -1,1 +1,1 @@
-# -Practica8_Digimind
+# Practica8_Digimind
